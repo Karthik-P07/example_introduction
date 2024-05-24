@@ -4,4 +4,5 @@ from django.shortcuts import render,HttpResponse
 
 
 def example(request):
-    return HttpResponse("welcome")
+    return HttpResponse("haiii")
+
